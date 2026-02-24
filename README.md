@@ -1,7 +1,7 @@
 ## Oi, eu sou Diego Volia 👋
 
 <p align="left">
-  👨‍💻 Estudante do 1º período de Ciência da Computação na Cesar School.<p></p>  
+  👨‍💻 Estudante do 3º período de Ciência da Computação na Cesar School.<p></p>  
   🎯 Atualmente focado em aprender desenvolvimento de software, inteligência artificial e análise de dados.  
 </p>
 
